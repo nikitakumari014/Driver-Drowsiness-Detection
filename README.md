@@ -27,7 +27,7 @@ By combining both approaches, I aim to improve the overall accuracy and robustne
 - dlib (version 19.24.2)
 
 ## Installation
-1. git clone https://github.com/your-username/driver-drowsiness-detection.git
+1. git clone https://github.com/nikitakumari014/Driver-Drowsiness-Detection.git
 2. Install the required dependencies
 
 ## Usage
